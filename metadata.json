@@ -1,0 +1,5 @@
+{
+  "name": "Ô Chữ Bí Mật",
+  "description": "A Vietnamese crossword puzzle game where players answer 5 multiple-choice questions to unlock horizontal words. Special characters from these words form a secret vertical keyword, which is the final goal of the game.",
+  "requestFramePermissions": []
+}
